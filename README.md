@@ -1,4 +1,4 @@
-# gallery
+# Photo gallery 
 
 > A Vue.js project
 
